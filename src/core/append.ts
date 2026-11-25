@@ -1,5 +1,5 @@
-import { read } from './read.js';
-import { write } from './write.js';
+import { read } from './read.ts';
+import { write } from './write.ts';
 
 /**
  * Appends content to a file, creating the file and parent directories if needed.

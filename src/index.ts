@@ -1,4 +1,4 @@
-export { append } from './core/append.js';
-export { read } from './core/read.js';
-export { stream } from './core/stream.js';
-export { write } from './core/write.js';
+export { append } from './core/append.ts';
+export { read } from './core/read.ts';
+export { stream } from './core/stream.ts';
+export { write } from './core/write.ts';
